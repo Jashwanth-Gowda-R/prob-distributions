@@ -103,7 +103,7 @@ __repr__() - Function to output the characteristics of the Binomial instance.
 Math
 matplotlib
 
-Use the package manager pip to install pk_prob_distributions.
+Use the package manager pip to install jashu_prob_distributions.
 pip install Jashu-prob-distributions
 
 open python IDE,
