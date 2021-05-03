@@ -1,6 +1,6 @@
 Project description
 
-# Jashu-prob-distributions package
+# prob-distributions package
 
 
 This package provides the Gaussian distribution and Binomial distribution classes.
